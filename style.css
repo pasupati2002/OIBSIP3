@@ -1,0 +1,46 @@
+body{
+    background-image: url(image/login2.jpg);
+}
+.card{
+    position: absolute;
+    margin-top: 60px;
+    border: 2px solid blue;
+    width: 450px;
+    padding: 45px;
+    top: 15%;
+    left: 29%;
+    border-radius: 10px;
+}
+
+.box{
+    width: 100%;
+    height: 25px;
+    border-radius: 5px;
+    margin-top: 5px;
+    padding: 5px;
+}
+
+.btn{
+    width: 103%;
+    height: 35px;
+    font-size: 24px;
+    background-color: blue;
+    color: white;
+    margin-top: 6px;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.btn:hover{
+    background-color: rgb(5, 102, 102);
+}
+
+h1{
+    color: white;
+    text-align: center;
+    text-decoration: underline;
+}
+
+.form-label{
+    color: white;
+}
